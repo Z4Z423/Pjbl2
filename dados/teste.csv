@@ -1,0 +1,36 @@
+﻿pergunta,id_esperado
+Pra que serve o Git?,1
+Git é igual ao GitHub ou são coisas diferentes?,2
+Onde ficam os arquivos e versões de um projeto?,3
+Qual comando começa o controle de versão numa pasta?,4
+Como vejo qual Git está instalado aqui?,5
+Como descubro o que foi alterado no projeto?,6
+"Quero preparar só um arquivo para commitar, como faço?",7
+Como coloco todas as mudanças na preparação de uma vez?,8
+O que significa staging?,9
+Como salvo as alterações com uma mensagem?,10
+O registro de uma versão do código é chamado de quê?,11
+Qual comando mostra os commits antigos?,12
+Tem como deixar o log em formato compacto?,13
+Como abro uma linha separada para desenvolver uma função?,14
+Por que trabalhar com branches?,15
+Como vejo quais branches existem?,16
+"Quero ir para outra branch, qual comando uso?",17
+Como criar uma branch e já mudar para ela?,18
+Como junto o conteúdo de uma branch na atual?,19
+Por que aparece conflito ao juntar branches?,20
+Como desfaço uma mesclagem que ainda está dando conflito?,21
+Como baixo um projeto do GitHub para meu PC?,22
+O que é esse remoto chamado origin?,23
+Como vejo os endereços dos remotos?,24
+Como cadastro o endereço do repositório remoto?,25
+Como publico meus commits no repositório remoto?,26
+Como sincronizo meu projeto local com o que está no servidor?,27
+Qual a diferença prática entre git fetch e git pull?,28
+Quero só baixar as novidades sem misturar no meu código. Qual comando?,29
+Como proponho que revisem e aceitem minhas alterações no GitHub?,30
+Quem venceu a Copa do Mundo de 2014?,-1
+Qual é a capital da Argentina?,-1
+Como faço um bolo de chocolate?,-1
+Qual a previsão do tempo para amanhã?,-1
+Explique como funciona a fotossíntese.,-1

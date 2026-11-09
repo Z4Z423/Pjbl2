@@ -1,0 +1,1 @@
+numpy>=1.26\nscikit-learn>=1.4\nnltk>=3.8\nsentence-transformers>=3.0\n

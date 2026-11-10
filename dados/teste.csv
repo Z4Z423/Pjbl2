@@ -1,36 +1,36 @@
 ﻿pergunta,id_esperado
-Pra que serve o Git?,1
-Git é igual ao GitHub ou são coisas diferentes?,2
-Onde ficam os arquivos e versões de um projeto?,3
-Qual comando começa o controle de versão numa pasta?,4
-Como vejo qual Git está instalado aqui?,5
-Como descubro o que foi alterado no projeto?,6
-"Quero preparar só um arquivo para commitar, como faço?",7
-Como coloco todas as mudanças na preparação de uma vez?,8
-O que significa staging?,9
-Como salvo as alterações com uma mensagem?,10
-O registro de uma versão do código é chamado de quê?,11
-Qual comando mostra os commits antigos?,12
-Tem como deixar o log em formato compacto?,13
-Como abro uma linha separada para desenvolver uma função?,14
-Por que trabalhar com branches?,15
-Como vejo quais branches existem?,16
-"Quero ir para outra branch, qual comando uso?",17
-Como criar uma branch e já mudar para ela?,18
-Como junto o conteúdo de uma branch na atual?,19
-Por que aparece conflito ao juntar branches?,20
-Como desfaço uma mesclagem que ainda está dando conflito?,21
-Como baixo um projeto do GitHub para meu PC?,22
-O que é esse remoto chamado origin?,23
-Como vejo os endereços dos remotos?,24
-Como cadastro o endereço do repositório remoto?,25
-Como publico meus commits no repositório remoto?,26
-Como sincronizo meu projeto local com o que está no servidor?,27
-Qual a diferença prática entre git fetch e git pull?,28
-Quero só baixar as novidades sem misturar no meu código. Qual comando?,29
-Como proponho que revisem e aceitem minhas alterações no GitHub?,30
+Para que serve uma linha de telefonia móvel?,1
+Qual é a diferença entre uma operadora e um fabricante de celular?,2
+Onde posso consultar os dados e as configurações da minha linha?,3
+Qual é o primeiro passo para ativar um chip novo?,4
+Como verifico a versão do sistema operacional do meu celular?,5
+Como descubro quais serviços estão ativos na minha linha?,6
+Quero contratar apenas um pacote adicional de internet. Como faço?,7
+Como adiciono todos os serviços disponíveis ao meu plano?,8
+O que significa franquia de internet?,9
+Como confirmo a contratação de um pacote com a operadora?,10
+Como é chamado o número que identifica minha linha telefônica?,11
+Como consulto o histórico das minhas faturas?,12
+Existe uma forma resumida de visualizar meus gastos mensais?,13
+Como solicito uma segunda linha para outra pessoa da família?,14
+Quais são as vantagens de ter mais de uma linha no mesmo plano?,15
+Como vejo quantas linhas estão vinculadas à minha conta?,16
+Quero trocar o chip de aparelho. Como faço?,17
+Como ativo um chip novo e começo a usar a linha?,18
+Como transfiro meu número para outro chip?,19
+Por que minha portabilidade está apresentando erro?,20
+Como resolvo um problema que ocorreu durante a ativação do chip?,21
+Como faço para trazer meu número de outra operadora?,22
+O que é uma operadora de origem na portabilidade?,23
+Como consulto os dados da operadora vinculada ao meu número?,24
+Como informo à operadora que quero manter meu número atual?,25
+Como faço para ativar meu plano depois da contratação?,26
+Como sincronizo os contatos e dados do meu celular com outro aparelho?,27
+Qual é a diferença entre roaming nacional e internacional?,28
+Quero consultar a cobertura da operadora antes de viajar. Onde vejo?,29
+Como solicito à operadora a análise de um problema na minha linha?,30
 Quem venceu a Copa do Mundo de 2014?,-1
 Qual é a capital da Argentina?,-1
 Como faço um bolo de chocolate?,-1
-Qual a previsão do tempo para amanhã?,-1
+Qual é a previsão do tempo para amanhã?,-1
 Explique como funciona a fotossíntese.,-1
